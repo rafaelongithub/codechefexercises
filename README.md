@@ -1,3 +1,3 @@
 # codechefexercises
 
-This is a repository to store all code chefe exercices that a I do.
+This is a repository to store all code chefe exercices that I do.
