@@ -5,10 +5,13 @@ account_amount = 2000.00
 
 # check if withdraw amount valid
 def is_valid(withdraw_amount):
+    if(withdraw_amount > (account_amount + 0.50)):
+        return False
     if (withdraw_amount % 5) == 0:
         return True
     else:
         return False
+
 
 finishe = 2
 
